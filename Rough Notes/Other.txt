@@ -63,7 +63,7 @@ Research (Using a well thought scientific method)
 
 
 *TO-DO
-- ~~Create GB Repo for AGA (Application and Documentation)~~
+- <del>Create GB Repo for AGA (Application and Documentation)</del>
 - Create FYP Project on GB
 - Add milestones (Read through BS)
 - Start Report
