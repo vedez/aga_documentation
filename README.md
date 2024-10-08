@@ -13,7 +13,7 @@ Please find information about the web application's project plan, code and docum
 
 ## Project Plan
 
-| **Milestone First & Second **                             | **Date**                    |
+| **Milestone First & Second**                             | **Date**                    |
 |-------------------------------------------|-----------------------------|
 | Project and Product Planning              |            |
 | Web Application Design                    |          |
@@ -25,7 +25,7 @@ Please find information about the web application's project plan, code and docum
 | Deployment                                |        |
 | Documentation                             |       |
 
-| **Milestone Third & Fourth **                             | **Date**                    |
+| **Milestone Third & Fourth**                             | **Date**                    |
 |-------------------------------------------|-----------------------------|
 | Project and Product Planning              |            |
 | Official Website Development              |          |
