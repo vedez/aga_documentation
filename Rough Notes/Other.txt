@@ -67,6 +67,7 @@ o Create GB Repo for AGA (Application and Documentation)
 o Create FYP Project on GB
 o Plan the project
 **** - https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2oCLlHJmV8pBqP73EQETJqFUOEs1T1NKN1ZUUVZOWEVLTkk5UDhaOUQ4Ni4u fill this in
+**** - add rubric on your gb and reminders
 - Add milestones (Read through BS)
 - Start Report
 - Read https://www.hse.ie/eng/about/who/cspd/ncps/mental-health/adhd/
