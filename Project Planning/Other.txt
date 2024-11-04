@@ -31,7 +31,6 @@ With features like customisable task lists, real-time alerts, and adaptive goal-
 - Routine Guide (Using ML to collect user habits? Brush teeth constantly at 11PM, reminder at 10:45 "Hey it's time to brush your teeth!")
 - AGA Lost | (1) Phone button, AGA: "I'm here, BEEEEP" (2) "Aga where are you?", AGA response.
 - Map AR (Google API) | Voice assisted directions ("Turn left here.") **Maybe not?
-- 
 
 
 *Milestones?
