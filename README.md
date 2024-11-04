@@ -23,7 +23,7 @@ Please find information about the web application's project plan, code and docum
 *Due to some delays/issues, this milestones's deadline has been pushed to 8th of November. Previous date was 26th of October.
 
 | **Milestone**                                       | **Start Date**   | **End Date**     |
-|-----------------------------------------------------|--=---------------|------------------|
+|-----------------------------------------------------|------------------|------------------|
 | Product Review                                      | Jan 05, 2025     | Jan 18, 2025     |
 | Refinement 01                                       | Jan 19, 2025     | Feb 08, 2025     |
 | Refinement 02                                       | Feb 09, 2025     | Feb 28, 2025     |
