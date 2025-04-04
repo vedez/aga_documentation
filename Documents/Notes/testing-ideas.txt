@@ -1,0 +1,1 @@
+1. Check if languages should be in their own or should be translated?
