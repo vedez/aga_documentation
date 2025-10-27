@@ -9,7 +9,7 @@ With features like customisable task lists, real-time alerts, and adaptive goal-
 ## Project Development
 Please find information about the web application's project plan, code and documentation on GitHub at the following links:
 - [Code and Development](https://github.com/vedez/AGA)
-- [Documentation](https://github.com/vedez/aga_documentation/tree/100a5277f13ee6c8ea122fa4f8431d32cc849173/Documents/Reports)
+- [Documentation](https://github.com/vedez/aga_documentation/tree/eb2b4dfa15495b499e9c97b297f75af839930d04/Documents/Reports)
 
 ## Demonstration 
 
